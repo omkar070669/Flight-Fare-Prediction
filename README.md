@@ -40,11 +40,4 @@ We use supervised regression techniques to predict the fare of a flight given re
 - Scikit-learn
 - Jupyter Notebook
 
-## 🚀 Future Improvements
-
-- Try advanced models like XGBoost or LightGBM
-- Incorporate real-time or recent datasets for current predictions
-- Deploy the model using Flask or Streamlit
-
-
 
