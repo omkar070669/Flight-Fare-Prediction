@@ -29,7 +29,7 @@ We use supervised regression techniques to predict the fare of a flight given re
 ## 📈 Results
 
 - **Final Model**: Random Forest Regressor
-- **R² Score**: 82% on test data
+- **R² Score**: 81% on test data
 - The model demonstrates strong predictive power and is useful for fare forecasting tasks.
 
 ## 🧠 Tech Stack
